@@ -1,0 +1,50 @@
+{
+  "name": "civic-tech-projects",
+  "version": "1.0.0",
+  "description": "Repository of Civic Tech Projects for the Make-A Diff Community",
+  "main": "gulpfile.js",
+  "scripts": {
+    "default": "gulp default",
+    "html": "gulp html",
+    "styles": "gulp styles",
+    "watch": "gulp watch",
+    "scripts": "gulp scripts",
+    "modernizr": "gulp modernizr",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/make-a-diff/Civic-Tech-Projects.git"
+  },
+  "author": "Briana Vecchione",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/make-a-diff/Civic-Tech-Projects/issues"
+  },
+  "homepage": "https://github.com/make-a-diff/Civic-Tech-Projects#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-preset-es2015": "^6.18.0",
+    "browser-sync": "^2.18.2",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-modernizr": "^1.0.0-alpha",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rev": "^7.1.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-usemin": "^0.3.26",
+    "gulp-watch": "^4.3.11",
+    "postcss-import": "^9.0.0",
+    "postcss-mixins": "^5.4.0",
+    "postcss-nested": "^1.0.0",
+    "postcss-simple-vars": "^3.0.0",
+    "webpack": "^1.13.3"
+  }
+}

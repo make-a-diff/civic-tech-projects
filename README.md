@@ -47,12 +47,14 @@ We use civic.json, which is the metadata standard created by BetaNYC and adapted
 
 ###New to Open Source?
 Welcome! This is a great place to start.
-* Read detailed guidelines on how to contribute here.
+* Read detailed guidelines on how to contribute [here](https://docs.google.com/document/d/1u3xULV7z_inIprMQijTjfw7ja-opoNR22ljmqAbWbVw/edit#heading=h.1qvta437hsxj).
 
 ##More information
 This project was inspired by two open source projects worth mentioning here:
 * [CFA Civic Tech Project Search](http://brigade.codeforamerica.org/brigade/projects?page=6)
 * [Civic Tech Issue Finder](http://civicissues.codeforamerica.org/geeks/civicissues)
 
+Looking for more Open Source projects? Here's a [list](https://docs.google.com/document/d/1u3xULV7z_inIprMQijTjfw7ja-opoNR22ljmqAbWbVw/edit#heading=h.stfv427e3nn) of other civic tech projects.
 
+Code for America has a [great list](https://github.com/codeforamerica/awesome-civic) of civic software tools, libraries and resources.
 

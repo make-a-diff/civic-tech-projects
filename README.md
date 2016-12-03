@@ -15,7 +15,8 @@ Before you submit a project, include a `civic.json` file in the top level of you
 We use civic.json, which is the metadata standard created by BetaNYC and adapted by CFA. This ensures your project is easily found through Code for America's API, the [CfAPI](https://github.com/codeforamerica/cfapi#installation). 
 
 `civic.json` looks like this:
-`{
+```json
+{
 "status": "Beta",
 "thumbnailUrl": "http://www.skyspaceinternational.com/yahoo_site_admin/assets/images/NYC_Skyline_Thumb.97220225.jpg",
 "bornAt": "BetaNYC Hacknights",
@@ -31,7 +32,8 @@ We use civic.json, which is the metadata standard created by BetaNYC and adapted
 {"category": "Community"},
 {"category": "Education"}
 ]
-}`
+}
+```
 
 ##How to Contribute to Civic Tech Projects
 We are so happy to have you contribute to Civic Tech Projects! Here are some ways you can contribute:

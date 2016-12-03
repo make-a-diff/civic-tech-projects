@@ -1,0 +1,15 @@
+{
+    "status": "Beta",
+    "thumbnailUrl": "",
+     "bornAt": "Make-a-Diff workathon",
+    "geography": "NYC",
+    "politicalEntity":"",
+    "type":"Web App",
+    "needs": [
+        {"need": "Web Designer"},
+        {"need": "HTML/CSS/Javascript Dev"}
+    ],
+    "categories": [
+        {"category": "Civic Tech"}
+    ]
+}

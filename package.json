@@ -4,13 +4,11 @@
   "description": "Repository of Civic Tech Projects for the Make-A Diff Community",
   "main": "gulpfile.js",
   "scripts": {
-    "default": "gulp default",
-    "html": "gulp html",
     "styles": "gulp styles",
     "watch": "gulp watch",
     "scripts": "gulp scripts",
-    "modernizr": "gulp modernizr",
-    "build": "gulp build"
+    "build": "gulp build",
+    "deploy": "gulp deploy"
   },
   "repository": {
     "type": "git",
@@ -35,6 +33,7 @@
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-cssnano": "^2.1.2",
+    "gulp-gh-pages": "^0.5.4",
     "gulp-modernizr": "^1.0.0-alpha",
     "gulp-postcss": "^6.2.0",
     "gulp-rev": "^7.1.2",

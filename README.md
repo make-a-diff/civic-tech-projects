@@ -37,17 +37,17 @@ We use civic.json, which is the metadata standard created by BetaNYC and adapted
 
 ##How to Contribute to Civic Tech Projects
 ###Installation
-*Fork this repo
-*Clone the repo to your computer
-*In your terminal:  `npm install`
-*Open with editor
+* Fork this repo
+* Clone the repo to your computer
+* In your terminal:  `npm install`
+* Open with editor
 
 ###Where to Start
-*Check out our [Issues](https://github.com/make-a-diff/civic-tech-projects/issues)
+* Check out our [Issues](https://github.com/make-a-diff/civic-tech-projects/issues)
 
 ###New to Open Source?
 Welcome! This is a great place to start.
-*Read detailed guidelines on how to contribute here.
+* Read detailed guidelines on how to contribute here.
 
 ##More information
 This project was inspired by two open source projects worth mentioning here:

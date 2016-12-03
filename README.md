@@ -6,11 +6,11 @@ Welcome to Civic Tech Projects. Civic Tech Projects is an open source collection
 * Provide an easy way for people to search projects by skills needed.
 * Provide a platform for tech and civic leaders to share their projects and find collaborators.
 
-##How to Submit a Project
+##Propose a New Project for Make-A-Diff
+Project proposals can be submitted through our [submission form](https://docs.google.com/spreadsheets/d/1V9RmJ4BW8gwQo3hQsUo5rEcuRnRJWbdxDtPwMZOvixU/edit#gid=0). 
 
-Project proposals can be submitted through our [submission form](https://docs.google.com/spreadsheets/d/1V9RmJ4BW8gwQo3hQsUo5rEcuRnRJWbdxDtPwMZOvixU/edit#gid=0).
-
-Before you submit a project, include a `civic.json` file in the top level of your repo.
+#Submit an Existing Civic Tech Project
+If you have an existing project with a repo, include a `civic.json` file in the top level of your repo.
 
 We use civic.json, which is the metadata standard created by BetaNYC and adapted by CFA. This ensures your project is easily found through Code for America's API, the [CfAPI](https://github.com/codeforamerica/cfapi#installation). 
 
@@ -36,11 +36,23 @@ We use civic.json, which is the metadata standard created by BetaNYC and adapted
 ```
 
 ##How to Contribute to Civic Tech Projects
-We are so happy to have you contribute to Civic Tech Projects! Here are some ways you can contribute:
-* Detailed intructions coming soon.
-* New to Open Source? Read detailed guidelines on how to contribute here.
+###Installation
+*Fork this repo
+*Clone the repo to your computer
+*In your terminal:  `npm install`
+*Open with editor
+
+###Where to Start
+*Check out our [Issues](https://github.com/make-a-diff/civic-tech-projects/issues)
+
+###New to Open Source?
+Welcome! This is a great place to start.
+*Read detailed guidelines on how to contribute here.
 
 ##More information
-Civic Tech Projects is part of the [CFA Civic Tech Project Search](http://brigade.codeforamerica.org/brigade/projects?page=6). It was inspired by another open source project, the [Civic Tech Issue Finder](http://civicissues.codeforamerica.org/geeks/civicissues).
+This project was inspired by two open source projects worth mentioning here:
+* [CFA Civic Tech Project Search](http://brigade.codeforamerica.org/brigade/projects?page=6)
+* [Civic Tech Issue Finder](http://civicissues.codeforamerica.org/geeks/civicissues)
+
 
 

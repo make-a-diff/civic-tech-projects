@@ -9,7 +9,7 @@ Welcome to Civic Tech Projects. Civic Tech Projects is an open source collection
 ##Propose a New Project for Make-A-Diff
 Project proposals can be submitted through our [submission form](https://docs.google.com/spreadsheets/d/1V9RmJ4BW8gwQo3hQsUo5rEcuRnRJWbdxDtPwMZOvixU/edit#gid=0). 
 
-#Submit an Existing Civic Tech Project
+##Submit an Existing Civic Tech Project
 If you have an existing project with a repo, include a `civic.json` file in the top level of your repo.
 
 We use civic.json, which is the metadata standard created by BetaNYC and adapted by CFA. This ensures your project is easily found through Code for America's API, the [CfAPI](https://github.com/codeforamerica/cfapi#installation). 

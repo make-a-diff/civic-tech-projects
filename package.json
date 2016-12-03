@@ -10,7 +10,8 @@
     "watch": "gulp watch",
     "scripts": "gulp scripts",
     "modernizr": "gulp modernizr",
-    "build": "gulp build"
+    "build": "gulp build",
+    "deploy": "gulp deploy"
   },
   "repository": {
     "type": "git",
